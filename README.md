@@ -1,2 +1,2 @@
-# computer-networks
-Documentation of my studies in computer networks
+# computer-network
+Documentation of my studies in computer network
