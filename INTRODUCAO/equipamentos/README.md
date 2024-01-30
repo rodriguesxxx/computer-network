@@ -1,3 +1,5 @@
+# Redes de Computadores - Equipamentos
+
 Tags: #computer-network #equipamentos
 
 Os dispositovos de uma `empresa` ou `residência`, precisam estar interligados para facilitar a `comunicação`. Para isso utilizamos os equipamentos de redes.
@@ -23,3 +25,4 @@ Os dispositovos de uma `empresa` ou `residência`, precisam estar interligados p
      
 - ### Gateway
 	Cada rede possui um conjunto de regras para a comunicação entre dois ou mais dispositivos. O gateway realiza o intercâmbio entre redes com protocolos diferentes, evitando o bloqueio de dados.
+	
