@@ -1,3 +1,6 @@
+
+Tags: #computer-network #introducao
+
 # INTRODUÇÃO A REDES
 
 <img src="https://tribunademinas.com.br/wp-content/webp-express/webp-images/uploads/2020/02/post-3.jpg.webp" />
