@@ -1,3 +1,6 @@
+
+# Expressões 
+
 Tags: #computer-network #expressoes #introducao 
 
 Existem alguns `termos` e `expressões`essencias para o entendimento de redes de computadores
