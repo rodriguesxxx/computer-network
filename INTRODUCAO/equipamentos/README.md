@@ -1,6 +1,6 @@
 # Redes de Computadores - Equipamentos
 
-Tags: #computer-network #equipamentos
+Tags: #computer-network #equipamentos #introducao 
 
 Os dispositovos de uma `empresa` ou `residência`, precisam estar interligados para facilitar a `comunicação`. Para isso utilizamos os equipamentos de redes.
 
