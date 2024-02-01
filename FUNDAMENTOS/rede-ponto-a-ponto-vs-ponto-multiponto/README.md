@@ -21,7 +21,8 @@ A conexão ponto a ponto conecta `dois` dispositivos com apenas `um cabo`.
 
 ### Conexão Multiponto
 
-<img src="https://www.researchgate.net/publication/235899854/figure/fig3/AS:340364624973862@1458160658758/Figura-26-Exemplo-de-topologia-ponto-multiponto-tipica.png" />
+<img src="https://johnycarvalho.com/images/tele/pc_multpoint.jpeg"
+	 />
 
 Um rede `multiponto` é composta por `dois` ou `mais` dispositivos. Em redes multiponto a `largura de banda` é dividida entre os dispositivos conectados.
 Um coisa interessante dessas redes é que os `dispositivos` só vão `executar` as mensagens enviadas e não vão `mover` os `dados` entre dispositivos.
